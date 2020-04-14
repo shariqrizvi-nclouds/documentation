@@ -1,0 +1,9 @@
+_gh_pages
+_site
+.ruby-version
+.sass-cache
+.jekyll-cache
+
+
+# Folders to ignore
+node_modules
